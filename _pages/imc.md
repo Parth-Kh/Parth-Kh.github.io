@@ -1,3 +1,9 @@
+---
+title: "Imperial Maths Competition"
+permalink: /imperial_maths_competition/
+author_profile: true
+---
+
 <!DOCTYPE html>
 <html>
 <head>
