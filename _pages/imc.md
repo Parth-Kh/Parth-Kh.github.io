@@ -3,133 +3,43 @@ title: "Imperial Maths Competition"
 permalink: /imperial_maths_competition/
 author_profile: true
 ---
+
 ## Skills
 
 ### Hard Skills
 
-- Speech Processing
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Predictive Modelling
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Clustering Modelling
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Data Visualization
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Statistical Analysis
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 88%" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
+- Speech Processing ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen)
+- Predictive Modeling ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen)
+- Clustering Modeling ![85%](https://img.shields.io/badge/Progress-85%25-brightgreen)
+- Data Visualization ![95%](https://img.shields.io/badge/Progress-95%25-brightgreen)
+- Statistical Analysis ![88%](https://img.shields.io/badge/Progress-88%25-brightgreen)
 
 ### Software Tools
 
-- Docker
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- LaTeX
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- PySpark
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Git
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- TensorBoard
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
+- Docker ![70%](https://img.shields.io/badge/Progress-70%25-yellow)
+- LaTeX ![65%](https://img.shields.io/badge/Progress-65%25-yellow)
+- PySpark ![75%](https://img.shields.io/badge/Progress-75%25-yellow)
+- Git ![85%](https://img.shields.io/badge/Progress-85%25-yellow)
+- TensorBoard ![80%](https://img.shields.io/badge/Progress-80%25-yellow)
 
 ### Programming Languages
 
-- Python
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- C++
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- MATLAB
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- C
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
+- Python ![95%](https://img.shields.io/badge/Progress-95%25-brightgreen)
+- C++ ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen)
+- MATLAB ![70%](https://img.shields.io/badge/Progress-70%25-yellow)
+- C ![75%](https://img.shields.io/badge/Progress-75%25-yellow)
 
 ### OS Proficiency
 
-- Ubuntu
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Windows
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
+- Ubuntu ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen)
+- Windows ![85%](https://img.shields.io/badge/Progress-85%25-brightgreen)
 
 ### Packages
 
-- PyTorch
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Numpy
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Pandas
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Scikit-learn
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- OpenCV
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Plotly
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-- Numba
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
-
-<div class="progress">
-    <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
+- PyTorch ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen)
+- Numpy ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen)
+- Pandas ![85%](https://img.shields.io/badge/Progress-85%25-brightgreen)
+- Scikit-learn ![95%](https://img.shields.io/badge/Progress-95%25-brightgreen)
+- OpenCV ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen)
+- Plotly ![75%](https://img.shields.io/badge/Progress-75%25-yellow)
+- Numba ![70%](https://img.shields.io/badge/Progress-70%25-yellow)
