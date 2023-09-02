@@ -6,53 +6,132 @@ author_profile: true
 
 ## Skills
 
-<!DOCTYPE html>
-<html>
+## Skills
+
+### Hard Skills
 <head>
-    <style>
-        .progress-container {
-            display: flex;
-            flex-direction: column;
-            width: 300px;
-        }
+    - Speech Processing
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
 
-        .progress-bar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-        }
+- Predictive Modelling
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
 
-        .progress-label {
-            flex: 1;
-            padding-right: 10px;
-        }
+- Clustering Modelling
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
 
-        .progress-bar-fill {
-            flex: 4;
-            height: 20px;
-            background-color: #007bff;
-        }
-    </style>
+- Data Visualization
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Statistical Analysis
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 88%" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+### Software Tools
+
+- Docker
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- LaTeX
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- PySpark
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Git
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- TensorBoard
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+### Programming Languages
+
+- Python
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- C++
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- MATLAB
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- C
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+### OS Proficiency
+
+- Ubuntu
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Windows
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+### Packages
+
+- PyTorch
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Numpy
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Pandas
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Scikit-learn
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- OpenCV
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Plotly
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+- Numba
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
 </head>
-<body>
-    <div class="progress-container">
-        <div class="progress-bar">
-            <div class="progress-label">Speech Processing</div>
-            <div class="progress-bar-fill" style="width: 80%;"></div>
-        </div>
-        <div class="progress-bar">
-            <div class="progress-label">Predictive Modeling</div>
-            <div class="progress-bar-fill" style="width: 90%;"></div>
-        </div>
-        <div class="progress-bar">
-            <div class="progress-label">Clustering Modeling</div>
-            <div class="progress-bar-fill" style="width: 85%;"></div>
-        </div>
-        <div class="progress-bar">
-            <div class="progress-label">Data Visualization</div>
-            <div class="progress-bar-fill" style="width: 95%;"></div>
-        </div>
-    </div>
-</body>
-</html>
